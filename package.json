@@ -1,0 +1,20 @@
+{
+  "name": "permitjs",
+  "version": "0.1.0",
+  "description": "Authorization library for Node.js, inspired by CanCanCan Gem for Ruby on Rails.",
+  "author": "Manuel Heibel <manu2@gmx.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manu27/permitjs"
+  },
+  "bugs": {
+    "url": "https://github.com/manu27/permitjs/issues"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
