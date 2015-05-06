@@ -1,1 +1,1 @@
-moduel.exports = require('./lib/permit');
+module.exports = require('./lib/permit');
